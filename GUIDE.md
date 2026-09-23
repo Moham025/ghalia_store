@@ -29,4 +29,10 @@ Les fichiers déjà téléversés mais retirés d’une fiche ou abandonnés pen
 
 `npm run install:ci`, `npm run dev`, `npm run build`. Vérification TypeScript : `node node_modules/typescript/bin/tsc --noEmit`.
 
-Le dossier parent contient les documents de référence d’origine ; ils sont conservés. L’hébergement est un aperçu privé Sites. Il faudra ouvrir l’accès public pour les clientes une fois les informations et la connexion validées.
+## Déployer sur Cloudflare Workers
+
+La boutique publique est disponible sur https://ghalia-store.sanou-moham92.workers.dev. Le dépôt contient `wrangler.jsonc`. Après avoir connecté Cloudflare à GitHub, configurer le répertoire racine du build sur la racine de ce dépôt, la commande de build sur `npm run build` et la commande de déploiement sur `npx wrangler deploy`. Définir les deux variables d'environnement `SUPABASE_URL` et `SUPABASE_PUBLISHABLE_KEY` dans le Worker. Elles sont nécessaires au catalogue et à l'administration ; ne pas les mettre dans `wrangler.jsonc`.
+
+Pour un déploiement depuis l'ordinateur, utiliser `npm run deploy:cloudflare` après `wrangler login`. Vérifier ensuite la page boutique et `/admin` sur l'URL `workers.dev` fournie par Cloudflare.
+
+Le dossier parent contient les documents de référence d’origine ; ils sont conservés. L’aperçu Sites reste privé. La boutique publique est hébergée sur Cloudflare Workers.

@@ -1,0 +1,10 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "ghalia-store",
+  "account_id": "dc1469066f7dc20e9e59b1c0f565dc09",
+  "main": "dist/server/index.js",
+  "assets": {
+    "directory": "dist/client"
+  },
+  "compatibility_date": "2026-05-15"
+}
