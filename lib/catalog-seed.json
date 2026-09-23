@@ -1,0 +1,2108 @@
+[
+  {
+    "id": -1,
+    "photo_code": "1.1",
+    "sku": "A1-001",
+    "age_code": 1,
+    "item_no": 1,
+    "age_label": "0–2 ans",
+    "titre": "Ensemble rose & imprimé tropical",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/1.1_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -2,
+    "photo_code": "1.2",
+    "sku": "A1-002",
+    "age_code": 1,
+    "item_no": 2,
+    "age_label": "0–2 ans",
+    "titre": "Ensemble rose à motif",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/1.2_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -3,
+    "photo_code": "1.3",
+    "sku": "A1-003",
+    "age_code": 1,
+    "item_no": 3,
+    "age_label": "0–2 ans",
+    "titre": "Ensemble bleu douceur",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/1.3_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -4,
+    "photo_code": "1.4",
+    "sku": "A1-004",
+    "age_code": 1,
+    "item_no": 4,
+    "age_label": "0–2 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/1.4_01.webp",
+        "position": 1
+      },
+      {
+        "url": "/photos/1.4_02.webp",
+        "position": 2
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -5,
+    "photo_code": "1.5",
+    "sku": "A1-005",
+    "age_code": 1,
+    "item_no": 5,
+    "age_label": "0–2 ans",
+    "titre": "Ensemble jaune soleil",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/1.5_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -6,
+    "photo_code": "1.6",
+    "sku": "A1-006",
+    "age_code": 1,
+    "item_no": 6,
+    "age_label": "0–2 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/1.6_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -7,
+    "photo_code": "1.7",
+    "sku": "A1-007",
+    "age_code": 1,
+    "item_no": 7,
+    "age_label": "0–2 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/1.7_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -8,
+    "photo_code": "1.8",
+    "sku": "A1-008",
+    "age_code": 1,
+    "item_no": 8,
+    "age_label": "0–2 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/1.8_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -9,
+    "photo_code": "1.9",
+    "sku": "A1-009",
+    "age_code": 1,
+    "item_no": 9,
+    "age_label": "0–2 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/1.9_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -10,
+    "photo_code": "1.10",
+    "sku": "A1-010",
+    "age_code": 1,
+    "item_no": 10,
+    "age_label": "0–2 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/1.10_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -11,
+    "photo_code": "1.12",
+    "sku": "A1-012",
+    "age_code": 1,
+    "item_no": 12,
+    "age_label": "0–2 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/1.12_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -12,
+    "photo_code": "1.13",
+    "sku": "A1-013",
+    "age_code": 1,
+    "item_no": 13,
+    "age_label": "0–2 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/1.13_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -13,
+    "photo_code": "1.17",
+    "sku": "A1-017",
+    "age_code": 1,
+    "item_no": 17,
+    "age_label": "0–2 ans",
+    "titre": "Haut et jupe fleurie",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/1.17_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -14,
+    "photo_code": "1.21",
+    "sku": "A1-021",
+    "age_code": 1,
+    "item_no": 21,
+    "age_label": "0–2 ans",
+    "titre": "Ensemble denim",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/1.21.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -15,
+    "photo_code": "1.25",
+    "sku": "A1-025",
+    "age_code": 1,
+    "item_no": 25,
+    "age_label": "0–2 ans",
+    "titre": "Ensemble vert tendre",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/1.25.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -16,
+    "photo_code": "1.56",
+    "sku": "A1-056",
+    "age_code": 1,
+    "item_no": 56,
+    "age_label": "0–2 ans",
+    "titre": "Ensemble jaune & imprimé",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/1.56_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -17,
+    "photo_code": "2.1",
+    "sku": "A2-001",
+    "age_code": 2,
+    "item_no": 1,
+    "age_label": "3–5 ans",
+    "titre": "Sweat gris et pantalon noir",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.1_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -18,
+    "photo_code": "2.2",
+    "sku": "A2-002",
+    "age_code": 2,
+    "item_no": 2,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.2_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -19,
+    "photo_code": "2.3",
+    "sku": "A2-003",
+    "age_code": 2,
+    "item_no": 3,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble à pois",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.3_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -20,
+    "photo_code": "2.4",
+    "sku": "A2-004",
+    "age_code": 2,
+    "item_no": 4,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble colorblock",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.4_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -21,
+    "photo_code": "2.5",
+    "sku": "A2-005",
+    "age_code": 2,
+    "item_no": 5,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.5_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -22,
+    "photo_code": "2.6",
+    "sku": "A2-006",
+    "age_code": 2,
+    "item_no": 6,
+    "age_label": "3–5 ans",
+    "titre": "Polo et jupe verte",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.6_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -23,
+    "photo_code": "2.7",
+    "sku": "A2-007",
+    "age_code": 2,
+    "item_no": 7,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.7_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -24,
+    "photo_code": "2.8",
+    "sku": "A2-008",
+    "age_code": 2,
+    "item_no": 8,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble esprit sport",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.8_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -25,
+    "photo_code": "2.9",
+    "sku": "A2-009",
+    "age_code": 2,
+    "item_no": 9,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.9_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -26,
+    "photo_code": "2.10",
+    "sku": "A2-010",
+    "age_code": 2,
+    "item_no": 10,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.10.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -27,
+    "photo_code": "2.11",
+    "sku": "A2-011",
+    "age_code": 2,
+    "item_no": 11,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.11_01.webp",
+        "position": 1
+      },
+      {
+        "url": "/photos/2.11_02.webp",
+        "position": 2
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -28,
+    "photo_code": "2.12",
+    "sku": "A2-012",
+    "age_code": 2,
+    "item_no": 12,
+    "age_label": "3–5 ans",
+    "titre": "Polo orange et jupe marine",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.12_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -29,
+    "photo_code": "2.13",
+    "sku": "A2-013",
+    "age_code": 2,
+    "item_no": 13,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.13_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -30,
+    "photo_code": "2.14",
+    "sku": "A2-014",
+    "age_code": 2,
+    "item_no": 14,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.14_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -31,
+    "photo_code": "2.15",
+    "sku": "A2-015",
+    "age_code": 2,
+    "item_no": 15,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.15_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -32,
+    "photo_code": "2.16",
+    "sku": "A2-016",
+    "age_code": 2,
+    "item_no": 16,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.16_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -33,
+    "photo_code": "2.17",
+    "sku": "A2-017",
+    "age_code": 2,
+    "item_no": 17,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.17_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -34,
+    "photo_code": "2.18",
+    "sku": "A2-018",
+    "age_code": 2,
+    "item_no": 18,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.18_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -35,
+    "photo_code": "2.19",
+    "sku": "A2-019",
+    "age_code": 2,
+    "item_no": 19,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.19_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -36,
+    "photo_code": "2.20",
+    "sku": "A2-020",
+    "age_code": 2,
+    "item_no": 20,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.20_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -37,
+    "photo_code": "2.21",
+    "sku": "A2-021",
+    "age_code": 2,
+    "item_no": 21,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.21_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -38,
+    "photo_code": "2.22",
+    "sku": "A2-022",
+    "age_code": 2,
+    "item_no": 22,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.22_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -39,
+    "photo_code": "2.23",
+    "sku": "A2-023",
+    "age_code": 2,
+    "item_no": 23,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.23_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -40,
+    "photo_code": "2.24",
+    "sku": "A2-024",
+    "age_code": 2,
+    "item_no": 24,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.24_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -41,
+    "photo_code": "2.25",
+    "sku": "A2-025",
+    "age_code": 2,
+    "item_no": 25,
+    "age_label": "3–5 ans",
+    "titre": "Sweat bleu et pantalon noir",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.25_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -42,
+    "photo_code": "2.26",
+    "sku": "A2-026",
+    "age_code": 2,
+    "item_no": 26,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble blanc dégradé",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.26_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -43,
+    "photo_code": "2.27",
+    "sku": "A2-027",
+    "age_code": 2,
+    "item_no": 27,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.27.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -44,
+    "photo_code": "2.28",
+    "sku": "A2-028",
+    "age_code": 2,
+    "item_no": 28,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.28.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -45,
+    "photo_code": "2.29",
+    "sku": "A2-029",
+    "age_code": 2,
+    "item_no": 29,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.29_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -46,
+    "photo_code": "2.30",
+    "sku": "A2-030",
+    "age_code": 2,
+    "item_no": 30,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.30_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -47,
+    "photo_code": "2.36",
+    "sku": "A2-036",
+    "age_code": 2,
+    "item_no": 36,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.36.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -48,
+    "photo_code": "2.37",
+    "sku": "A2-037",
+    "age_code": 2,
+    "item_no": 37,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.37.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -49,
+    "photo_code": "2.50",
+    "sku": "A2-050",
+    "age_code": 2,
+    "item_no": 50,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.50.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -50,
+    "photo_code": "2.64",
+    "sku": "A2-064",
+    "age_code": 2,
+    "item_no": 64,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.64.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -51,
+    "photo_code": "2.93",
+    "sku": "A2-093",
+    "age_code": 2,
+    "item_no": 93,
+    "age_label": "3–5 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/2.93.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -52,
+    "photo_code": "3.1",
+    "sku": "A3-001",
+    "age_code": 3,
+    "item_no": 1,
+    "age_label": "6–9 ans",
+    "titre": "Haut fleuri et pantalon",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/3.1_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -53,
+    "photo_code": "3.2",
+    "sku": "A3-002",
+    "age_code": 3,
+    "item_no": 2,
+    "age_label": "6–9 ans",
+    "titre": "Polo et jupe verte",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/3.2_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -54,
+    "photo_code": "3.3",
+    "sku": "A3-003",
+    "age_code": 3,
+    "item_no": 3,
+    "age_label": "6–9 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/3.3_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -55,
+    "photo_code": "3.4",
+    "sku": "A3-004",
+    "age_code": 3,
+    "item_no": 4,
+    "age_label": "6–9 ans",
+    "titre": "Ensemble blanc et orange",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/3.4_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -56,
+    "photo_code": "3.5",
+    "sku": "A3-005",
+    "age_code": 3,
+    "item_no": 5,
+    "age_label": "6–9 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/3.5_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -57,
+    "photo_code": "3.6",
+    "sku": "A3-006",
+    "age_code": 3,
+    "item_no": 6,
+    "age_label": "6–9 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/3.6_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -58,
+    "photo_code": "3.7",
+    "sku": "A3-007",
+    "age_code": 3,
+    "item_no": 7,
+    "age_label": "6–9 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/3.7_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -59,
+    "photo_code": "3.8",
+    "sku": "A3-008",
+    "age_code": 3,
+    "item_no": 8,
+    "age_label": "6–9 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/3.8_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -60,
+    "photo_code": "3.9",
+    "sku": "A3-009",
+    "age_code": 3,
+    "item_no": 9,
+    "age_label": "6–9 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/3.9_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -61,
+    "photo_code": "3.10",
+    "sku": "A3-010",
+    "age_code": 3,
+    "item_no": 10,
+    "age_label": "6–9 ans",
+    "titre": "Haut rose et jupe fleurie",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/3.10_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -62,
+    "photo_code": "3.11",
+    "sku": "A3-011",
+    "age_code": 3,
+    "item_no": 11,
+    "age_label": "6–9 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/3.11_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -63,
+    "photo_code": "3.12",
+    "sku": "A3-012",
+    "age_code": 3,
+    "item_no": 12,
+    "age_label": "6–9 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/3.12_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -64,
+    "photo_code": "3.13",
+    "sku": "A3-013",
+    "age_code": 3,
+    "item_no": 13,
+    "age_label": "6–9 ans",
+    "titre": "Ensemble à découvrir",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/3.13.webp",
+        "position": 1
+      },
+      {
+        "url": "/photos/3.13_01.webp",
+        "position": 2
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -65,
+    "photo_code": "3.14",
+    "sku": "A3-014",
+    "age_code": 3,
+    "item_no": 14,
+    "age_label": "6–9 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/3.14_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -66,
+    "photo_code": "3.15",
+    "sku": "A3-015",
+    "age_code": 3,
+    "item_no": 15,
+    "age_label": "6–9 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/3.15_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -67,
+    "photo_code": "3.16",
+    "sku": "A3-016",
+    "age_code": 3,
+    "item_no": 16,
+    "age_label": "6–9 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/3.16_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -68,
+    "photo_code": "3.17",
+    "sku": "A3-017",
+    "age_code": 3,
+    "item_no": 17,
+    "age_label": "6–9 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/3.17_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -69,
+    "photo_code": "3.18",
+    "sku": "A3-018",
+    "age_code": 3,
+    "item_no": 18,
+    "age_label": "6–9 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/3.18_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -70,
+    "photo_code": "3.19",
+    "sku": "A3-019",
+    "age_code": 3,
+    "item_no": 19,
+    "age_label": "6–9 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/3.19_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -71,
+    "photo_code": "3.20",
+    "sku": "A3-020",
+    "age_code": 3,
+    "item_no": 20,
+    "age_label": "6–9 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/3.20_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -72,
+    "photo_code": "3.21",
+    "sku": "A3-021",
+    "age_code": 3,
+    "item_no": 21,
+    "age_label": "6–9 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/3.21_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -73,
+    "photo_code": "3.23",
+    "sku": "A3-023",
+    "age_code": 3,
+    "item_no": 23,
+    "age_label": "6–9 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/3.23.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -74,
+    "photo_code": "3.30",
+    "sku": "A3-030",
+    "age_code": 3,
+    "item_no": 30,
+    "age_label": "6–9 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/3.30_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -75,
+    "photo_code": "3.37",
+    "sku": "A3-037",
+    "age_code": 3,
+    "item_no": 37,
+    "age_label": "6–9 ans",
+    "titre": "Haut rose et jean",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/3.37.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -76,
+    "photo_code": "4.1",
+    "sku": "A4-001",
+    "age_code": 4,
+    "item_no": 1,
+    "age_label": "10–13 ans",
+    "titre": "T-shirt rose et pantalon noir",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/4.1_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -77,
+    "photo_code": "4.2",
+    "sku": "A4-002",
+    "age_code": 4,
+    "item_no": 2,
+    "age_label": "10–13 ans",
+    "titre": "T-shirt noir et pantalon",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/4.2_01.webp",
+        "position": 1
+      },
+      {
+        "url": "/photos/4.2_02.webp",
+        "position": 2
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -78,
+    "photo_code": "4.3",
+    "sku": "A4-003",
+    "age_code": 4,
+    "item_no": 3,
+    "age_label": "10–13 ans",
+    "titre": "Ensemble rose",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/4.3_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -79,
+    "photo_code": "4.4",
+    "sku": "A4-004",
+    "age_code": 4,
+    "item_no": 4,
+    "age_label": "10–13 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/4.4_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -80,
+    "photo_code": "4.5",
+    "sku": "A4-005",
+    "age_code": 4,
+    "item_no": 5,
+    "age_label": "10–13 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/4.5_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -81,
+    "photo_code": "4.6",
+    "sku": "A4-006",
+    "age_code": 4,
+    "item_no": 6,
+    "age_label": "10–13 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/4.6_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -82,
+    "photo_code": "4.7",
+    "sku": "A4-007",
+    "age_code": 4,
+    "item_no": 7,
+    "age_label": "10–13 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/4.7_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -83,
+    "photo_code": "4.8",
+    "sku": "A4-008",
+    "age_code": 4,
+    "item_no": 8,
+    "age_label": "10–13 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/4.8_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -84,
+    "photo_code": "4.9",
+    "sku": "A4-009",
+    "age_code": 4,
+    "item_no": 9,
+    "age_label": "10–13 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/4.9_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -85,
+    "photo_code": "4.10",
+    "sku": "A4-010",
+    "age_code": 4,
+    "item_no": 10,
+    "age_label": "10–13 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/4.10_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -86,
+    "photo_code": "4.11",
+    "sku": "A4-011",
+    "age_code": 4,
+    "item_no": 11,
+    "age_label": "10–13 ans",
+    "titre": "Ensemble lilas",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/4.11_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -87,
+    "photo_code": "4.12",
+    "sku": "A4-012",
+    "age_code": 4,
+    "item_no": 12,
+    "age_label": "10–13 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/4.12_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -88,
+    "photo_code": "4.15",
+    "sku": "A4-015",
+    "age_code": 4,
+    "item_no": 15,
+    "age_label": "10–13 ans",
+    "titre": "Ensemble bleu ciel",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/4.15_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -89,
+    "photo_code": "4.16",
+    "sku": "A4-016",
+    "age_code": 4,
+    "item_no": 16,
+    "age_label": "10–13 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/4.16_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -90,
+    "photo_code": "4.17",
+    "sku": "A4-017",
+    "age_code": 4,
+    "item_no": 17,
+    "age_label": "10–13 ans",
+    "titre": "Ensemble rose vif",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/4.17_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -91,
+    "photo_code": "4.19",
+    "sku": "A4-019",
+    "age_code": 4,
+    "item_no": 19,
+    "age_label": "10–13 ans",
+    "titre": "Haut et jupe fleurie",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/4.19_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -92,
+    "photo_code": "4.28",
+    "sku": "A4-028",
+    "age_code": 4,
+    "item_no": 28,
+    "age_label": "10–13 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/4.28.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -93,
+    "photo_code": "4.30",
+    "sku": "A4-030",
+    "age_code": 4,
+    "item_no": 30,
+    "age_label": "10–13 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/4.30_01.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -94,
+    "photo_code": "4.32",
+    "sku": "A4-032",
+    "age_code": 4,
+    "item_no": 32,
+    "age_label": "10–13 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/4.32.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": -95,
+    "photo_code": "4.45",
+    "sku": "A4-045",
+    "age_code": 4,
+    "item_no": 45,
+    "age_label": "10–13 ans",
+    "titre": "Ensemble enfant",
+    "description": null,
+    "prix": null,
+    "couleur": null,
+    "genre": "mixte",
+    "type_article": "Ensemble",
+    "actif": false,
+    "product_images": [
+      {
+        "url": "/photos/4.45.webp",
+        "position": 1
+      }
+    ],
+    "variants": []
+  }
+]
