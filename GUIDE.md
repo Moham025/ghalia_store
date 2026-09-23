@@ -15,7 +15,7 @@ Aucune clé `secret` ou `service_role` n’est nécessaire. Les accès sont prot
 
 ## Ajouter des articles
 
-Cliquer sur **Ajouter un article**, choisir jusqu’à 8 photos JPG, PNG ou WebP, saisir la référence (par exemple `3.2`), le titre, le prix, les tailles et les quantités. Les photos sont optimisées avant envoi. Le bouton de chaque vignette permet de choisir la couverture. Enregistrer en brouillon ou activer **Publier sur la boutique**. Une publication exige une photo, un prix et une taille en stock.
+Cliquer sur **Ajouter un article**, choisir jusqu’à 8 photos JPG, PNG ou WebP, puis saisir la référence (par exemple `3.2`) et le titre. Dans une nouvelle fiche ou un brouillon à compléter, le prix est proposé à 3 000 F CFA et une taille est ajoutée avec un stock de 1. La taille reprend la tranche d’âge de la référence (1 = 0–2 ans, 2 = 3–5 ans, 3 = 6–9 ans, 4 = 10–13 ans). Ces valeurs restent modifiables ; les prix et tailles déjà renseignés, y compris un stock explicitement à zéro, sont conservés. Rien n’est enregistré ou publié sans validation du gestionnaire. Les photos sont optimisées avant envoi. Le bouton de chaque vignette permet de choisir la couverture. Enregistrer en brouillon ou activer **Publier sur la boutique**. Une publication exige une photo, un prix et une taille en stock.
 
 La tranche d’âge est déduite de la référence : 1 = 0–2 ans, 2 = 3–5 ans, 3 = 6–9 ans, 4 = 10–13 ans. Les références physiques sont conservées. Les noms préremplis et les photos regroupées sont provisoires : vérifier particulièrement `1.4`, `2.11` et `3.13` avant publication. Les genres sont initialement « mixte », à corriger dans chaque fiche.
 
