@@ -1,6 +1,6 @@
 # Ghalia Store
 
-Le site comprend un catalogue mobile, des filtres, les détails d’un article, une demande de commande WhatsApp et un espace `/admin` pour ajouter les photos et les informations. Les commandes sont des demandes envoyées par le client sur WhatsApp ; cette version n’enregistre pas de commande et ne réserve pas le stock automatiquement. Le message de commande inclut le lien public de la photo de couverture : WhatsApp peut en afficher une miniature si l’aperçu des liens est activé. Le lien reste présent si l’aperçu ne s’affiche pas ; la photo n’est pas jointe comme fichier.
+Le site comprend un catalogue mobile, des filtres, les détails d’un article, une demande de commande WhatsApp et un espace `/admin` pour ajouter les photos et les informations. Les commandes sont des demandes envoyées par le client sur WhatsApp ; cette version n’enregistre pas de commande et ne réserve pas le stock automatiquement. Chaque article publié possède une adresse `/p/A1-001` (selon sa référence). Le message de commande inclut cette fiche avec le nom, la taille, le prix et la référence. Les fiches et la page d’accueil fournissent des métadonnées Open Graph avec une photo existante ; l’aperçu dépend de la plateforme et de son cache. Le bouton « Partager cet article » ouvre le partage du téléphone ou copie son lien. Les codes inscrits sur les photos sont conservés.
 
 ## Connecter Supabase
 
@@ -31,8 +31,14 @@ Les fichiers déjà téléversés mais retirés d’une fiche ou abandonnés pen
 
 ## Déployer sur Cloudflare Workers
 
-La boutique publique est disponible sur https://ghalia-store.sanou-moham92.workers.dev. Le dépôt contient `wrangler.jsonc`. Après avoir connecté Cloudflare à GitHub, configurer le répertoire racine du build sur la racine de ce dépôt, la commande de build sur `npm run build` et la commande de déploiement sur `npx wrangler deploy`. Définir les deux variables d'environnement `SUPABASE_URL` et `SUPABASE_PUBLISHABLE_KEY` dans le Worker. Elles sont nécessaires au catalogue et à l'administration ; ne pas les mettre dans `wrangler.jsonc`.
+La boutique publique est disponible sur https://ghalia-store.ghalia-boutique.workers.dev. Le dépôt contient `wrangler.jsonc`. Après avoir connecté Cloudflare à GitHub, configurer le répertoire racine du build sur la racine de ce dépôt, la commande de build sur `npm run build` et la commande de déploiement sur `npx wrangler deploy`. Définir les deux variables d'environnement `SUPABASE_URL` et `SUPABASE_PUBLISHABLE_KEY` dans le Worker. Elles sont nécessaires au catalogue et à l'administration ; ne pas les mettre dans `wrangler.jsonc`.
 
 Pour un déploiement depuis l'ordinateur, utiliser `npm run deploy:cloudflare` après `wrangler login`. Vérifier ensuite la page boutique et `/admin` sur l'URL `workers.dev` fournie par Cloudflare.
 
 Le dossier parent contient les documents de référence d’origine ; ils sont conservés. L’aperçu Sites reste privé. La boutique publique est hébergée sur Cloudflare Workers.
+
+## Périmètre MVP et mesure des ventes
+
+Les améliorations du parcours de vente ne changent ni les photos ni le logo. Aucun Pixel Meta n’est activé : son identifiant n’a pas été fourni. Pour évaluer la rentabilité, rapprocher les dépenses publicitaires, les demandes WhatsApp, les commandes réellement confirmées et leur marge. Une consultation ou un clic WhatsApp ne prouve pas une vente.
+
+Le domaine canonique utilisé par les liens de partage se trouve dans `lib/site.ts` ; le mettre à jour lors du passage à un domaine personnalisé. Les brouillons ne disposent pas de page produit publique. Les pages retirées proposent un retour au catalogue.

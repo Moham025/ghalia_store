@@ -1,7 +1,7 @@
-import { cover, money, type Product } from './types';
+import { money, type Product } from './types';
+import { productUrl } from './site';
 
 export function whatsappOrderUrl(product: Product, size: string): string {
-  const photoUrl = cover(product);
   const message = [
     'Bonjour Ghalia Store ! Je souhaite commander :',
     product.titre,
@@ -9,7 +9,7 @@ export function whatsappOrderUrl(product: Product, size: string): string {
     `Taille : ${size}`,
     `Prix affiché : ${money(product.prix!)}`,
     'Pouvez-vous confirmer la disponibilité et la livraison ?',
-    photoUrl ? `Photo de l’article :\n${photoUrl}` : null,
+    `Article :\n${productUrl(product.sku)}`,
   ].filter(Boolean).join('\n');
 
   return `https://wa.me/22656886505?text=${encodeURIComponent(message)}`;

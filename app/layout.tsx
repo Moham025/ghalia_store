@@ -1,9 +1,11 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import { SITE_URL, SITE_TITLE, SITE_DESCRIPTION } from '@/lib/site';
+import { socialMetadata } from '@/lib/social-metadata';
 
 export const metadata: Metadata = {
-  title: "Ghalia Store · La mode des petits",
-  description: "Vêtements pour enfants de 0 à 13 ans. Découvre la collection Ghalia Store à Ouagadougou.",
+  ...socialMetadata(SITE_TITLE, SITE_DESCRIPTION, '/'),
+  metadataBase: new URL(SITE_URL),
   other: {
     "codex-preview": "development",
   },
