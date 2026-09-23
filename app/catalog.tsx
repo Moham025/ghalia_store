@@ -5,6 +5,7 @@ import { Dialog, DialogContent } from '@/components/ui/dialog';
 import { Select, SelectTrigger, SelectContent, SelectItem, SelectValue } from '@/components/ui/select';
 import { ages, cover, money, stock, type Product } from '@/lib/types';
 import { productPath } from '@/lib/site';
+import { WHATSAPP_URL } from '@/lib/whatsapp';
 import ProductDetails from './product-details';
 import { Brand } from '@/components/brand';
 export { Brand } from '@/components/brand';
@@ -12,7 +13,7 @@ export default function Catalog({products,preview=false,error}:{products:Product
   const [age,setAge]=useState('all'),[genre,setGenre]=useState('all'),[query,setQuery]=useState(''),[selected,setSelected]=useState<Product|null>(null),[limit,setLimit]=useState(20);
   const filtered=products.filter(p=>(age==='all'||p.age_code===Number(age))&&(genre==='all'||p.genre===genre)&&`${p.titre} ${p.couleur||''}`.toLowerCase().includes(query.toLowerCase()));
   function open(p:Product) {setSelected(p);}
-  return <><div className="announcement">Les petits looks, les grands sourires. <span>À Ouagadougou</span></div><header className="header"><Brand/><nav><a href="#collection">La collection</a><a href="/admin">Gérer la boutique <ArrowUpRight size={15}/></a></nav><a className="contact" href="https://wa.me/22656886505" target="_blank" rel="noreferrer"><MessageCircle size={19}/><span>Nous écrire</span></a></header>
+  return <><div className="announcement">Les petits looks, les grands sourires. <span>À Ouagadougou</span></div><header className="header"><Brand/><nav><a href="#collection">La collection</a><a href="/admin">Gérer la boutique <ArrowUpRight size={15}/></a></nav><a className="contact" href={WHATSAPP_URL} target="_blank" rel="noreferrer"><MessageCircle size={19}/><span>Nous écrire</span></a></header>
   <main><section className="hero"><div className="hero-copy"><span className="eyebrow">DE 0 À 13 ANS · GHALIA STORE</span><h1>Petits looks.<br/><span>Grandes aventures.</span></h1><p>Des ensembles colorés pour jouer, grandir<br className="desktop"/> et profiter de chaque journée.</p><a href="#collection" className="primary">Découvrir la collection <ArrowUpRight size={20}/></a><div className="hero-note"><ShoppingBag size={17}/> Choisis ton coup de cœur, écris-nous sur WhatsApp.</div></div><div className="hero-photos"><div className="hero-image one"><img src="/photos/1.5_01.webp" alt="Ensemble jaune avec short pour enfant" fetchPriority="high"/><span>Un peu de soleil.</span></div><div className="hero-image two"><img src="/photos/3.2_01.webp" alt="Ensemble polo et jupe verte" fetchPriority="high"/></div><div className="hero-stamp">À chaque âge,<br/><strong>son style.</strong></div></div></section>
   <section className="catalog-section" id="collection"><div className="section-title"><div><span className="eyebrow">LE VESTIAIRE DES PETITS</span><h2>La collection</h2></div><p>{filtered.length} modèles à découvrir</p></div>
   {preview&&<div className="notice">Aperçu de la collection · Les prix et disponibilités seront affichés après leur saisie dans la boutique.</div>}

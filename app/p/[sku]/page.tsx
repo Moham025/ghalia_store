@@ -6,6 +6,7 @@ import { getPublicProduct } from '@/lib/public-catalog';
 import { ages, cover, money } from '@/lib/types';
 import { productPath } from '@/lib/site';
 import { socialMetadata } from '@/lib/social-metadata';
+import { WHATSAPP_URL } from '@/lib/whatsapp';
 
 export const dynamic = 'force-dynamic';
 type Props = { params: Promise<{ sku: string }> };
@@ -23,7 +24,7 @@ export default async function ProductPage({ params }: Props) {
   const product = await getPublicProduct(sku);
   if (!product) notFound();
   return <>
-    <header className="header"><Brand /><a className="contact" href="https://wa.me/22656886505" target="_blank" rel="noreferrer"><MessageCircle size={19} /><span>Nous écrire</span></a></header>
+    <header className="header"><Brand /><a className="contact" href={WHATSAPP_URL} target="_blank" rel="noreferrer"><MessageCircle size={19} /><span>Nous écrire</span></a></header>
     <main className="product-page"><a className="back-to-catalog" href="/#collection"><ArrowLeft size={17} />Voir la collection</a><article className="product-sheet"><ProductDetails key={product.sku} product={product} /></article></main>
   </>;
 }

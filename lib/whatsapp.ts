@@ -1,6 +1,8 @@
 import { money, type Product } from './types';
 import { productUrl } from './site';
 
+export const WHATSAPP_URL = 'https://wa.me/22672818924';
+
 export function whatsappOrderUrl(product: Product, size: string): string {
   const message = [
     'Bonjour Ghalia Store ! Je souhaite commander :',
@@ -12,5 +14,5 @@ export function whatsappOrderUrl(product: Product, size: string): string {
     `Article :\n${productUrl(product.sku)}`,
   ].filter(Boolean).join('\n');
 
-  return `https://wa.me/22656886505?text=${encodeURIComponent(message)}`;
+  return `${WHATSAPP_URL}?text=${encodeURIComponent(message)}`;
 }
